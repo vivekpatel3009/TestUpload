@@ -1,0 +1,140 @@
+c:\users\suyog\documents\visual studio 2010\Projects\FeesManagementProject\FeesManagementProject\bin\Debug\FeesManagementProject.exe
+c:\users\suyog\documents\visual studio 2010\Projects\FeesManagementProject\FeesManagementProject\bin\Debug\FeesManagementProject.pdb
+c:\users\suyog\documents\visual studio 2010\Projects\FeesManagementProject\FeesManagementProject\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\suyog\documents\visual studio 2010\Projects\FeesManagementProject\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Form1.resources
+c:\users\suyog\documents\visual studio 2010\Projects\FeesManagementProject\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Properties.Resources.resources
+c:\users\suyog\documents\visual studio 2010\Projects\FeesManagementProject\FeesManagementProject\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\suyog\documents\visual studio 2010\Projects\FeesManagementProject\FeesManagementProject\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\suyog\documents\visual studio 2010\Projects\FeesManagementProject\FeesManagementProject\obj\x86\Debug\FeesManagementProject.exe
+c:\users\suyog\documents\visual studio 2010\Projects\FeesManagementProject\FeesManagementProject\obj\x86\Debug\FeesManagementProject.pdb
+c:\users\suyog\documents\visual studio 2010\Projects\FeesManagementProject\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Register.resources
+c:\users\suyog\documents\visual studio 2010\Projects\FeesManagementProject\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Welcome.resources
+c:\users\suyog\documents\visual studio 2010\Projects\FeesManagementProject\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Update.resources
+C:\Users\Suyog\documents\visual studio 2010\Projects\FeesManagementProject\FeesManagementProject\obj\x86\Debug\FeesManagementProject.SearchStudent.resources
+C:\Users\Suyog\documents\visual studio 2010\Projects\FeesManagementProject\FeesManagementProject\obj\x86\Debug\FeesManagementProject.DeleteStudentRecord.resources
+C:\Users\Suyog\documents\visual studio 2010\Projects\FeesManagementProject\FeesManagementProject\obj\x86\Debug\FeesManagementProject.FinalReport.resources
+C:\Users\Suyog\documents\visual studio 2010\Projects\FeesManagementProject\FeesManagementProject\bin\Debug\Database1.mdf
+C:\Users\Suyog\documents\visual studio 2010\Projects\FeesManagementProject\FeesManagementProject\bin\Debug\Database1_log.ldf
+C:\Users\Suyog\documents\visual studio 2010\Projects\FeesManagementProject\FeesManagementProject\bin\Debug\StudentFeesSyetm.mdf
+C:\Users\Suyog\documents\visual studio 2010\Projects\FeesManagementProject\FeesManagementProject\bin\Debug\StudentFeesSyetm_log.ldf
+C:\Users\Suyog\documents\visual studio 2010\Projects\FeesManagementProject\FeesManagementProject\bin\Debug\FeesManagementProject.exe.config
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\FeesManagementProject.exe.config
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.exe
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.pdb
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\Database1.mdf
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\Database1_log.ldf
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\StudentFeesSyetm.mdf
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\StudentFeesSyetm_log.ldf
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\FeesManagementProject.exe
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\FeesManagementProject.pdb
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.DeleteStudentRecord.resources
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.FinalReport.resources
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Form1.resources
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Properties.Resources.resources
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Register.resources
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.SearchStudent.resources
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Update.resources
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Welcome.resources
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\student_fess_project_SQL.mdf
+C:\Users\Suyog\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\student_fess_project_SQL_log.ldf
+E:\Projects\Visual_Studio\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\FeesManagementProject.exe.config
+E:\Projects\Visual_Studio\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.exe
+E:\Projects\Visual_Studio\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.DeleteStudentRecord.resources
+E:\Projects\Visual_Studio\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.FinalReport.resources
+E:\Projects\Visual_Studio\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Form1.resources
+E:\Projects\Visual_Studio\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Properties.Resources.resources
+E:\Projects\Visual_Studio\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Register.resources
+E:\Projects\Visual_Studio\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.SearchStudent.resources
+E:\Projects\Visual_Studio\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Update.resources
+E:\Projects\Visual_Studio\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Welcome.resources
+E:\Projects\Visual_Studio\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.csproj.GenerateResource.Cache
+C:\Users\N\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\FeesManagementProject.exe.config
+C:\Users\N\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.exe
+C:\Users\N\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.DeleteStudentRecord.resources
+C:\Users\N\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.FinalReport.resources
+C:\Users\N\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Form1.resources
+C:\Users\N\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Properties.Resources.resources
+C:\Users\N\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Register.resources
+C:\Users\N\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.SearchStudent.resources
+C:\Users\N\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Update.resources
+C:\Users\N\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Welcome.resources
+C:\Users\N\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.csproj.GenerateResource.Cache
+C:\Users\N\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.csprojResolveAssemblyReference.cache
+C:\Users\N\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\Database1.mdf
+C:\Users\N\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\Database1_log.ldf
+C:\Users\N\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\StudentFeesSyetm.mdf
+C:\Users\N\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\StudentFeesSyetm_log.ldf
+C:\Users\N\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\student_fess_project_SQL.mdf
+C:\Users\N\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\student_fess_project_SQL_log.ldf
+C:\Users\N\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\FeesManagementProject.exe
+C:\Users\N\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\FeesManagementProject.pdb
+C:\Users\N\Documents\Visual Studio 2010\Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.pdb
+F:\Sem.4\C# Projects\Trials\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\Database1.mdf
+F:\Sem.4\C# Projects\Trials\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\Database1_log.ldf
+F:\Sem.4\C# Projects\Trials\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\StudentFeesSyetm.mdf
+F:\Sem.4\C# Projects\Trials\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\StudentFeesSyetm_log.ldf
+F:\Sem.4\C# Projects\Trials\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\student_fess_project_SQL.mdf
+F:\Sem.4\C# Projects\Trials\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\student_fess_project_SQL_log.ldf
+F:\Sem.4\C# Projects\Trials\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\FeesManagementProject.exe.config
+F:\Sem.4\C# Projects\Trials\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\FeesManagementProject.exe
+F:\Sem.4\C# Projects\Trials\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\FeesManagementProject.pdb
+F:\Sem.4\C# Projects\Trials\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.csprojResolveAssemblyReference.cache
+F:\Sem.4\C# Projects\Trials\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.DeleteStudentRecord.resources
+F:\Sem.4\C# Projects\Trials\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.FinalReport.resources
+F:\Sem.4\C# Projects\Trials\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Form1.resources
+F:\Sem.4\C# Projects\Trials\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Properties.Resources.resources
+F:\Sem.4\C# Projects\Trials\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Register.resources
+F:\Sem.4\C# Projects\Trials\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.SearchStudent.resources
+F:\Sem.4\C# Projects\Trials\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Update.resources
+F:\Sem.4\C# Projects\Trials\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Welcome.resources
+F:\Sem.4\C# Projects\Trials\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\Trials\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\Trials\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.exe
+F:\Sem.4\C# Projects\Trials\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.pdb
+F:\Sem.4\C# Projects\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\Database1.mdf
+F:\Sem.4\C# Projects\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\Database1_log.ldf
+F:\Sem.4\C# Projects\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\StudentFeesSyetm.mdf
+F:\Sem.4\C# Projects\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\StudentFeesSyetm_log.ldf
+F:\Sem.4\C# Projects\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\student_fess_project_SQL.mdf
+F:\Sem.4\C# Projects\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\student_fess_project_SQL_log.ldf
+F:\Sem.4\C# Projects\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\FeesManagementProject.exe.config
+F:\Sem.4\C# Projects\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\FeesManagementProject.exe
+F:\Sem.4\C# Projects\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\FeesManagementProject.pdb
+F:\Sem.4\C# Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.csprojResolveAssemblyReference.cache
+F:\Sem.4\C# Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.DeleteStudentRecord.resources
+F:\Sem.4\C# Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.FinalReport.resources
+F:\Sem.4\C# Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Form1.resources
+F:\Sem.4\C# Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Properties.Resources.resources
+F:\Sem.4\C# Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Register.resources
+F:\Sem.4\C# Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.SearchStudent.resources
+F:\Sem.4\C# Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Update.resources
+F:\Sem.4\C# Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Welcome.resources
+F:\Sem.4\C# Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.exe
+F:\Sem.4\C# Projects\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.pdb
+F:\Code Projects Files\NEWW C Projects 19nov\Student Fees Mgmt in C#\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\Database1.mdf
+F:\Code Projects Files\NEWW C Projects 19nov\Student Fees Mgmt in C#\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\Database1_log.ldf
+F:\Code Projects Files\NEWW C Projects 19nov\Student Fees Mgmt in C#\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\StudentFeesSyetm.mdf
+F:\Code Projects Files\NEWW C Projects 19nov\Student Fees Mgmt in C#\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\StudentFeesSyetm_log.ldf
+F:\Code Projects Files\NEWW C Projects 19nov\Student Fees Mgmt in C#\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\student_fess_project_SQL.mdf
+F:\Code Projects Files\NEWW C Projects 19nov\Student Fees Mgmt in C#\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\student_fess_project_SQL_log.ldf
+F:\Code Projects Files\NEWW C Projects 19nov\Student Fees Mgmt in C#\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\FeesManagementProject.exe.config
+F:\Code Projects Files\NEWW C Projects 19nov\Student Fees Mgmt in C#\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\FeesManagementProject.exe
+F:\Code Projects Files\NEWW C Projects 19nov\Student Fees Mgmt in C#\FeesManagementProject_SQL\FeesManagementProject\bin\Debug\FeesManagementProject.pdb
+F:\Code Projects Files\NEWW C Projects 19nov\Student Fees Mgmt in C#\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.csprojResolveAssemblyReference.cache
+F:\Code Projects Files\NEWW C Projects 19nov\Student Fees Mgmt in C#\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.DeleteStudentRecord.resources
+F:\Code Projects Files\NEWW C Projects 19nov\Student Fees Mgmt in C#\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.FinalReport.resources
+F:\Code Projects Files\NEWW C Projects 19nov\Student Fees Mgmt in C#\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Form1.resources
+F:\Code Projects Files\NEWW C Projects 19nov\Student Fees Mgmt in C#\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Properties.Resources.resources
+F:\Code Projects Files\NEWW C Projects 19nov\Student Fees Mgmt in C#\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Register.resources
+F:\Code Projects Files\NEWW C Projects 19nov\Student Fees Mgmt in C#\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.SearchStudent.resources
+F:\Code Projects Files\NEWW C Projects 19nov\Student Fees Mgmt in C#\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Update.resources
+F:\Code Projects Files\NEWW C Projects 19nov\Student Fees Mgmt in C#\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.Welcome.resources
+F:\Code Projects Files\NEWW C Projects 19nov\Student Fees Mgmt in C#\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.csproj.GenerateResource.Cache
+F:\Code Projects Files\NEWW C Projects 19nov\Student Fees Mgmt in C#\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.csproj.CoreCompileInputs.cache
+F:\Code Projects Files\NEWW C Projects 19nov\Student Fees Mgmt in C#\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.exe
+F:\Code Projects Files\NEWW C Projects 19nov\Student Fees Mgmt in C#\FeesManagementProject_SQL\FeesManagementProject\obj\x86\Debug\FeesManagementProject.pdb

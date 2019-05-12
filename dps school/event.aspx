@@ -1,0 +1,601 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="event.aspx.cs" Inherits="even" %>
+
+
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+<html>
+<head>
+<title>Learn an Education Category Flat Bootstarp Resposive Website Template | Events :: w3layouts</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Learn Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<link href="css/bootstrap-3.1.1.min.css" rel='stylesheet' type='text/css' />
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<!-- Custom Theme files -->
+<link href="css/style.css" rel='stylesheet' type='text/css' />
+<link rel="stylesheet" href="css/jquery.countdown.css" />
+<link href='//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700' rel='stylesheet' type='text/css'>
+<!----font-Awesome----->
+<link href="css/font-awesome.css" rel="stylesheet"> 
+<!----font-Awesome----->
+<script>
+    $(document).ready(function () {
+        $(".dropdown").hover(
+        function () {
+            $('.dropdown-menu', this).stop(true, true).slideDown("fast");
+            $(this).toggleClass('open');
+        },
+        function () {
+            $('.dropdown-menu', this).stop(true, true).slideUp("fast");
+            $(this).toggleClass('open');
+        }
+    );
+    });
+</script>
+<!----Calender -------->
+  <link rel="stylesheet" href="css/clndr.css" type="text/css" />
+  <script src="js/underscore-min.js" type="text/javascript"></script>
+  <script src= "js/moment-2.2.1.js" type="text/javascript"></script>
+  <script src="js/clndr.js" type="text/javascript"></script>
+  <script src="js/site.js" type="text/javascript"></script>
+<!----End Calender -------->
+</head>
+<body>
+<nav class="navbar navbar-default" role="navigation">
+	<div class="container">
+	    <div class="navbar-header">
+	        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+		        <span class="sr-only">Toggle navigation</span>
+		        <span class="icon-bar"></span>
+		        <span class="icon-bar"></span>
+		        <span class="icon-bar"></span>
+	        </button>
+	         <a class="navbar-brand" href="index.aspx">delhi public school</a>
+	    </div>
+	    <!--/.navbar-header-->
+	    <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1" style="height: 1px;">
+	        <ul class="nav navbar-nav">
+		        <li class="dropdown">
+		            <a href="login.aspx"><i class="fa fa-user"></i><span>Login</span></a>
+		        </li>
+		        
+		        <li class="dropdown">
+		            <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-calendar"></i><span>Events</span></a>
+		             <ul class="dropdown-menu">
+			            <li><a href="events.aspx">Event1</a></li>
+			            <li><a href="events.aspx">Event2</a></li>
+			            <li><a href="events.aspx">Event3</a></li>
+		             </ul>
+		        </li>
+		        
+		        <li class="dropdown">
+		            <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-search"></i><span>Search</span></a>
+		            <ul class="dropdown-menu search-form">
+			           <form>        
+                            <input type="text" class="search-text" name="s" placeholder="Search...">    
+                            <button type="submit" class="search-submit"><i class="fa fa-search"></i></button>
+                       </form>
+			        </ul>
+		        </li>
+		     </ul>
+	    </div>
+	    <div class="clearfix"> </div>
+	  </div>
+	    <!--/.navbar-collapse-->
+</nav>
+<nav class="navbar nav_bottom" role="navigation">
+ <div class="container">
+  <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header nav_2">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-megadropdown-tabs">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#"></a>
+    </div> 
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
+        <ul class="nav navbar-nav nav_1">
+            <li><a href="index.aspx">Home</a></li>
+            <li><a href="about.aspx">About</a></li>
+    		<li class="dropdown mega-dropdown active">
+			    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Admissions<span class="caret"></span></a>				
+				<div class="dropdown-menu mega-dropdown-menu">
+                    <div class="container-fluid">
+    				    <!-- Tab panes -->
+                        <div class="tab-content">
+                          <div class="tab-pane active" id="men">
+                            <ul class="nav-list list-inline">
+                                <li><a href="admission.aspx"><img src="images/t7.jpg" class="img-responsive" alt=""/></a></li>
+                                <li><a href="admission.aspx"><img src="images/t8.jpg" class="img-responsive" alt=""/></a></li>
+                                <li><a href="admission.aspx"><img src="images/t9.jpg" class="img-responsive" alt=""/></a></li>
+                                <li><a href="admission.aspx"><img src="images/t1.jpg" class="img-responsive" alt=""/></a></li>
+                            </ul>
+                          </div>
+                          <div class="tab-pane" id="women">
+                            <ul class="nav-list list-inline">
+                                <li><a href="admission.aspx"><img src="images/t1.jpg" class="img-responsive" alt=""/></a></li>
+                                <li><a href="admission.aspx"><img src="images/t2.jpg" class="img-responsive" alt=""/></a></li>
+                                <li><a href="admission.aspx"><img src="images/t3.jpg" class="img-responsive" alt=""/></a></li>
+                                <li><a href="admission.aspx"><img src="images/t4.jpg" class="img-responsive" alt=""/></a></li>
+                                <li><a href="admission.aspx"><img src="images/t5.jpg" class="img-responsive" alt=""/></a></li>
+                                <li><a href="admission.aspx"><img src="images/t6.jpg" class="img-responsive" alt=""/></a></li>
+                            </ul>
+                          </div>
+                        </div>
+                    </div>
+                    <!-- Nav tabs -->
+                    <ul class="nav nav-tabs" role="tablist">
+                       <li class="active"><a href="#men" role="tab" data-toggle="tab">School</a></li>
+                       <li><a href="#women" role="tab" data-toggle="tab">College</a></li>
+                    </ul>                    
+				</div>				
+			</li>
+			<li><a href="faculty.aspx">Faculty</a></li>
+            
+            <li class="last"><a href="contact.aspx">Contacts</a></li>
+        </ul>
+      </div><!-- /.navbar-collapse -->
+   </div>
+</nav>
+<!-- banner -->
+  <div class="courses_banner">
+  	<div class="container">
+  		<h3>Events</h3>
+  		<p class="description">
+             
+        </p>
+        <div class="breadcrumb1">
+            <ul>
+                <li class="icon6"><a href="index.aspx">Home</a></li>
+                <li class="current-page">Events</li>
+            </ul>
+        </div>
+  	</div>
+  </div>
+    <!-- //banner -->
+	<div class="courses_box1">
+	   <div class="container">
+	   	  <div class="col-md-4">
+	   	  	<div class="cal1 cal_2"><div class="clndr"><div class="clndr-controls"><div class="clndr-control-button"><p class="clndr-previous-button">previous</p></div><div class="month">September 2015</div><div class="clndr-control-button rightalign"><p class="clndr-next-button">next</p></div></div><table class="clndr-table" border="0" cellspacing="0" cellpadding="0"><thead><tr class="header-days"><td class="header-day">S</td><td class="header-day">M</td><td class="header-day">T</td><td class="header-day">W</td><td class="header-day">T</td><td class="header-day">F</td><td class="header-day">S</td></tr></thead><tbody><tr><td class="day past adjacent-month last-month calendar-day-2015-08-30"><div class="day-contents">30</div></td><td class="day past adjacent-month last-month calendar-day-2015-08-31"><div class="day-contents">31</div></td><td class="day today calendar-day-2015-09-01"><div class="day-contents">1</div></td><td class="day calendar-day-2015-09-02"><div class="day-contents">2</div></td><td class="day calendar-day-2015-09-03"><div class="day-contents">3</div></td><td class="day calendar-day-2015-09-04"><div class="day-contents">4</div></td><td class="day calendar-day-2015-09-05"><div class="day-contents">5</div></td></tr><tr><td class="day calendar-day-2015-09-06"><div class="day-contents">6</div></td><td class="day calendar-day-2015-09-07"><div class="day-contents">7</div></td><td class="day calendar-day-2015-09-08"><div class="day-contents">8</div></td><td class="day calendar-day-2015-09-09"><div class="day-contents">9</div></td><td class="day event calendar-day-2015-09-10"><div class="day-contents">10</div></td><td class="day event calendar-day-2015-09-11"><div class="day-contents">11</div></td><td class="day event calendar-day-2015-09-12"><div class="day-contents">12</div></td></tr><tr><td class="day event calendar-day-2015-09-13"><div class="day-contents">13</div></td><td class="day event calendar-day-2015-09-14"><div class="day-contents">14</div></td><td class="day calendar-day-2015-09-15"><div class="day-contents">15</div></td><td class="day calendar-day-2015-09-16"><div class="day-contents">16</div></td><td class="day calendar-day-2015-09-17"><div class="day-contents">17</div></td><td class="day calendar-day-2015-09-18"><div class="day-contents">18</div></td><td class="day calendar-day-2015-09-19"><div class="day-contents">19</div></td></tr><tr><td class="day calendar-day-2015-09-20"><div class="day-contents">20</div></td><td class="day event calendar-day-2015-09-21"><div class="day-contents">21</div></td><td class="day event calendar-day-2015-09-22"><div class="day-contents">22</div></td><td class="day event calendar-day-2015-09-23"><div class="day-contents">23</div></td><td class="day calendar-day-2015-09-24"><div class="day-contents">24</div></td><td class="day calendar-day-2015-09-25"><div class="day-contents">25</div></td><td class="day calendar-day-2015-09-26"><div class="day-contents">26</div></td></tr><tr><td class="day calendar-day-2015-09-27"><div class="day-contents">27</div></td><td class="day calendar-day-2015-09-28"><div class="day-contents">28</div></td><td class="day calendar-day-2015-09-29"><div class="day-contents">29</div></td><td class="day calendar-day-2015-09-30"><div class="day-contents">30</div></td><td class="day adjacent-month next-month calendar-day-2015-10-01"><div class="day-contents">1</div></td><td class="day adjacent-month next-month calendar-day-2015-10-02"><div class="day-contents">2</div></td><td class="day adjacent-month next-month calendar-day-2015-10-03"><div class="day-contents">3</div></td></tr></tbody></table></div></div>
+			<div class="courses_box1-left">
+                <form>
+                 <div class="select-block1">
+                    <select>
+                        <option value="">Discipline</option>
+                        <option value="">Discipline</option>
+                        <option value="">Discipline</option>
+                        <option value="">Discipline</option>
+                        <option value="">Discipline</option>
+                    </select>
+                 </div>
+                <!-- select-block -->
+                 <div class="select-block1">
+                    <select>
+                        <option value="">Duration</option>
+                        <option value="">Duration</option>
+                        <option value="">Duration</option>
+                        <option value="">Duration</option>
+                        <option value="">Duration</option>
+                    </select>
+                </div>
+                <!-- select-block -->
+                <div class="select-block1">
+                    <select>
+                        <option value="">Level</option>
+                        <option value="">Level</option>
+                        <option value="">Level</option>
+                        <option value="">Level</option>
+                        <option value="">Level</option>
+                    </select>
+                </div>
+                <!-- select-block -->
+                <div class="select-block1">
+                    <select>
+                        <option value="">Location</option>
+                        <option value="">Location</option>
+                        <option value="">Location</option>
+                        <option value="">Location</option>
+                        <option value="">Location</option>
+                    </select>
+                </div>
+                <!-- select-block -->
+                <input type="submit" value="search" class="course-submit">		                            
+            </form>
+	       </div>
+	       <div class="social-widget">
+          	<h2>Connect with us</h2>
+          	  <ul class="courses_social">
+				<li class="facebook-icon">
+					<div>
+						<a href="#" class="fa fa-facebook"></a>
+						<p>2154</p>
+					</div>        							
+				</li>
+				<li class="twitter-icon">
+					<div>
+						<a href="#" class="fa fa-twitter"></a>
+						<p>1425</p>
+					</div>        							
+				</li>
+				<li class="gplus-icon">
+					<div>
+						<a href="#" class="fa fa-google-plus"></a>
+						<p>2150</p>
+					</div>        							
+				</li>
+				<div class="clearfix"> </div>
+			 </ul>
+           </div>
+           <section class="slider">
+            	<h3>Testimonial</h3>
+				<div class="flexslider">
+					<ul class="slides">
+						<li>
+							<div class="banner-info1">
+							   <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat quis nostrud.</p>	
+							   <h5><a href="#">Laoreet ,</a>Dateratr since 2015</h5>
+							</div>
+						</li>
+						<li>
+							<div class="banner-info1">
+							   <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, content of a page.</p>	
+							   <h5><a href="#">Distracted ,</a>Dateratr since 2015</h5>
+							</div>
+						</li>
+						<li>
+							<div class="banner-info1">
+							   <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of usin but the majority.</p>	
+							   <h5><a href="#">Suffered ,</a>Dateratr since 2015</h5>
+							</div>
+						</li>
+				    </ul>
+				 </div>
+	      </section>
+	      <ul class="posts">
+	      	<h3>Recent Posts</h3>
+			<li>
+				<article class="entry-item">
+					<div class="entry-thumb pull-left">
+						<img src="images/t7.jpg" class="img-responsive" alt=""/>
+					</div>
+					<div class="entry-content">
+						<h6><a href="#">Established</a></h6>
+						<p><a href="#">Admin</a> &nbsp;/&nbsp; 30 Dec 2015</p>
+					</div>
+					<div class="clearfix"> </div>
+				</article>
+			</li>
+			<li>
+				<article class="entry-item">
+					<div class="entry-thumb pull-left">
+						<img src="images/t17.jpg" class="img-responsive" alt=""/>
+					</div>
+					<div class="entry-content">
+						<h6><a href="#">Established</a></h6>
+						<p><a href="#">Admin</a> &nbsp;/&nbsp; 30 Dec 2015</p>
+					</div>
+					<div class="clearfix"> </div>
+				</article>
+			</li>
+			<li>
+				<article class="entry-item">
+					<div class="entry-thumb pull-left">
+						<img src="images/t16.jpg" class="img-responsive" alt=""/>
+					</div>
+					<div class="entry-content">
+						<h6><a href="#">Established</a></h6>
+						<p><a href="#">Admin</a> &nbsp;/&nbsp; 30 Dec 2015</p>
+					</div>
+					<div class="clearfix"> </div>
+				</article>
+		    </li>
+         </ul>
+		</div>
+		<div class="col-md-8 detail">
+	       <div class="event-page">
+	       	 <div class="row">
+	       	 	<div class="col-xs-4 col-sm-4">
+	       	 	  <div class="event-img">
+	       	 		<a href="event_single.aspx"><img src="images/e1.jpg" class="img-responsive" alt=""/></a>
+	       	 		<div class="over-image"></div>
+	       	 	  </div>
+	       	 	</div>
+	       	 	<div class="col-xs-8 col-sm-8 event-desc">
+	       	 		<h2><a href="event_single.aspx">Aliquam Quaerat Voluptatem</a></h2>
+	       	 	    <div class="event-info-text">
+	       	 		   <div class="event-info-middle"><p style="display:inline;"><span class="event-bold">Speakers : &nbsp;</span></p>
+       	 				   <ul class="event-speakers" style="display:inline">
+       	 						<li><a href="event_single.aspx">Handful</a></li>
+       	 						<li><a href="event_single.aspx">Renaissance</a></li>
+       	 						<li><a href="event_single.aspx">Doloremque</a></li>
+       	 						<li><a href="event_single.aspx">Temporibus</a></li>
+       	 				   </ul>
+       	 				   <p><span class="event-bold">Date : &nbsp;</span>Dec 01, 2015 - Dec 09, 2015</p>
+       	 				   <p><span class="event-bold">Time : &nbsp;</span>09:22 AM - 05:16 AM</p>
+       	 				   <p><span class="event-bold">Location : &nbsp;</span>Masko, Russia</p>
+	       	 		   </div>
+	       	 	    </div>
+	       	  </div>
+	       	</div>
+		   </div>
+		   <div class="event-page">
+	       	 <div class="row">
+	       	 	<div class="col-xs-4 col-sm-4">
+	       	 	  <div class="event-img">
+	       	 		<a href="event_single.aspx"><img src="images/e2.jpg" class="img-responsive" alt=""/></a>
+	       	 		<div class="over-image"></div>
+	       	 	  </div>
+	       	 	</div>
+	       	 	<div class="col-xs-8 col-sm-8 event-desc">
+	       	 		<h2><a href="event_single.aspx">Aliquam Quaerat Voluptatem</a></h2>
+	       	 	    <div class="event-info-text">
+	       	 		   <div class="event-info-middle"><p style="display:inline;"><span class="event-bold">Speakers : &nbsp;</span></p>
+       	 				   <ul class="event-speakers" style="display:inline">
+       	 						<li><a href="event_single.aspx">Handful</a></li>
+       	 						<li><a href="event_single.aspx">Renaissance</a></li>
+       	 						<li><a href="event_single.aspx">Doloremque</a></li>
+       	 						<li><a href="event_single.aspx">Temporibus</a></li>
+       	 				   </ul>
+       	 				   <p><span class="event-bold">Date : &nbsp;</span>Dec 01, 2015 - Dec 09, 2015</p>
+       	 				   <p><span class="event-bold">Time : &nbsp;</span>09:22 AM - 05:16 AM</p>
+       	 				   <p><span class="event-bold">Location : &nbsp;</span>Masko, Russia</p>
+	       	 		   </div>
+	       	 	    </div>
+	       	  </div>
+	       	</div>
+		  </div>
+		  <div class="event-page">
+	       	 <div class="row">
+	       	 	<div class="col-xs-4 col-sm-4">
+	       	 	  <div class="event-img">
+	       	 		<a href="event_single.aspx"><img src="images/e3.jpg" class="img-responsive" alt=""/></a>
+	       	 		<div class="over-image"></div>
+	       	 	  </div>
+	       	 	</div>
+	       	 	<div class="col-xs-8 col-sm-8 event-desc">
+	       	 		<h2><a href="event_single.aspx">Aliquam Quaerat Voluptatem</a></h2>
+	       	 	    <div class="event-info-text">
+	       	 		   <div class="event-info-middle"><p style="display:inline;"><span class="event-bold">Speakers : &nbsp;</span></p>
+       	 				   <ul class="event-speakers" style="display:inline">
+       	 						<li><a href="event_single.aspx">Handful</a></li>
+       	 						<li><a href="event_single.aspx">Renaissance</a></li>
+       	 						<li><a href="event_single.aspx">Doloremque</a></li>
+       	 						<li><a href="event_single.aspx">Temporibus</a></li>
+       	 				   </ul>
+       	 				   <p><span class="event-bold">Date : &nbsp;</span>Dec 01, 2015 - Dec 09, 2015</p>
+       	 				   <p><span class="event-bold">Time : &nbsp;</span>09:22 AM - 05:16 AM</p>
+       	 				   <p><span class="event-bold">Location : &nbsp;</span>Masko, Russia</p>
+	       	 		   </div>
+	       	 	    </div>
+	       	  </div>
+	       	</div>
+		  </div>
+		  <div class="event-page">
+	       	 <div class="row">
+	       	 	<div class="col-xs-4 col-sm-4">
+	       	 	  <div class="event-img">
+	       	 		<a href="event_single.aspx"><img src="images/e1.jpg" class="img-responsive" alt=""/></a>
+	       	 		<div class="over-image"></div>
+	       	 	  </div>
+	       	 	</div>
+	       	 	<div class="col-xs-8 col-sm-8 event-desc">
+	       	 		<h2><a href="event_single.aspx">Aliquam Quaerat Voluptatem</a></h2>
+	       	 	    <div class="event-info-text">
+	       	 		   <div class="event-info-middle"><p style="display:inline;"><span class="event-bold">Speakers : &nbsp;</span></p>
+       	 				   <ul class="event-speakers" style="display:inline">
+       	 						<li><a href="event_single.aspx">Handful</a></li>
+       	 						<li><a href="event_single.aspx">Renaissance</a></li>
+       	 						<li><a href="event_single.aspx">Doloremque</a></li>
+       	 						<li><a href="event_single.aspx">Temporibus</a></li>
+       	 				   </ul>
+       	 				   <p><span class="event-bold">Date : &nbsp;</span>Dec 01, 2015 - Dec 09, 2015</p>
+       	 				   <p><span class="event-bold">Time : &nbsp;</span>09:22 AM - 05:16 AM</p>
+       	 				   <p><span class="event-bold">Location : &nbsp;</span>Masko, Russia</p>
+	       	 		   </div>
+	       	 	    </div>
+	       	  </div>
+	       	</div>
+		  </div>
+		  <div class="event-page">
+	       	 <div class="row">
+	       	 	<div class="col-xs-4 col-sm-4">
+	       	 	  <div class="event-img">
+	       	 		<a href="event_single.aspx"><img src="images/e2.jpg" class="img-responsive" alt=""/></a>
+	       	 		<div class="over-image"></div>
+	       	 	  </div>
+	       	 	</div>
+	       	 	<div class="col-xs-8 col-sm-8 event-desc">
+	       	 		<h2><a href="event_single.aspx">Aliquam Quaerat Voluptatem</a></h2>
+	       	 	    <div class="event-info-text">
+	       	 		   <div class="event-info-middle"><p style="display:inline;"><span class="event-bold">Speakers : &nbsp;</span></p>
+       	 				   <ul class="event-speakers" style="display:inline">
+       	 						<li><a href="event_single.aspx">Handful</a></li>
+       	 						<li><a href="event_single.aspx">Renaissance</a></li>
+       	 						<li><a href="event_single.aspx">Doloremque</a></li>
+       	 						<li><a href="event_single.aspx">Temporibus</a></li>
+       	 				   </ul>
+       	 				   <p><span class="event-bold">Date : &nbsp;</span>Dec 01, 2015 - Dec 09, 2015</p>
+       	 				   <p><span class="event-bold">Time : &nbsp;</span>09:22 AM - 05:16 AM</p>
+       	 				   <p><span class="event-bold">Location : &nbsp;</span>Masko, Russia</p>
+	       	 		   </div>
+	       	 	    </div>
+	       	  </div>
+	       	</div>
+		  </div>
+		  <div class="event-page">
+	       	 <div class="row">
+	       	 	<div class="col-xs-4 col-sm-4">
+	       	 	  <div class="event-img">
+	       	 		<a href="event_single.aspx"><img src="images/e3.jpg" class="img-responsive" alt=""/></a>
+	       	 		<div class="over-image"></div>
+	       	 	  </div>
+	       	 	</div>
+	       	 	<div class="col-xs-8 col-sm-8 event-desc">
+	       	 		<h2><a href="event_single.aspx">Aliquam Quaerat Voluptatem</a></h2>
+	       	 	    <div class="event-info-text">
+	       	 		   <div class="event-info-middle"><p style="display:inline;"><span class="event-bold">Speakers : &nbsp;</span></p>
+       	 				   <ul class="event-speakers" style="display:inline">
+       	 						<li><a href="event_single.aspx">Handful</a></li>
+       	 						<li><a href="event_single.aspx">Renaissance</a></li>
+       	 						<li><a href="event_single.aspx">Doloremque</a></li>
+       	 						<li><a href="event_single.aspx">Temporibus</a></li>
+       	 				   </ul>
+       	 				   <p><span class="event-bold">Date : &nbsp;</span>Dec 01, 2015 - Dec 09, 2015</p>
+       	 				   <p><span class="event-bold">Time : &nbsp;</span>09:22 AM - 05:16 AM</p>
+       	 				   <p><span class="event-bold">Location : &nbsp;</span>Masko, Russia</p>
+	       	 		   </div>
+	       	 	    </div>
+	       	  </div>
+	       	</div>
+		  </div>
+		  <div class="event-page">
+	       	 <div class="row">
+	       	 	<div class="col-xs-4 col-sm-4">
+	       	 	  <div class="event-img">
+	       	 		<a href="event_single.aspx"><img src="images/e1.jpg" class="img-responsive" alt=""/></a>
+	       	 		<div class="over-image"></div>
+	       	 	  </div>
+	       	 	</div>
+	       	 	<div class="col-xs-8 col-sm-8 event-desc">
+	       	 		<h2><a href="event_single.aspx">Aliquam Quaerat Voluptatem</a></h2>
+	       	 	    <div class="event-info-text">
+	       	 		   <div class="event-info-middle"><p style="display:inline;"><span class="event-bold">Speakers : &nbsp;</span></p>
+       	 				   <ul class="event-speakers" style="display:inline">
+       	 						<li><a href="event_single.aspx">Handful</a></li>
+       	 						<li><a href="event_single.aspx">Renaissance</a></li>
+       	 						<li><a href="event_single.aspx">Doloremque</a></li>
+       	 						<li><a href="event_single.aspx">Temporibus</a></li>
+       	 				   </ul>
+       	 				   <p><span class="event-bold">Date : &nbsp;</span>Dec 01, 2015 - Dec 09, 2015</p>
+       	 				   <p><span class="event-bold">Time : &nbsp;</span>09:22 AM - 05:16 AM</p>
+       	 				   <p><span class="event-bold">Location : &nbsp;</span>Masko, Russia</p>
+	       	 		   </div>
+	       	 	    </div>
+	       	  </div>
+	       	</div>
+		  </div>
+		  <ul class="pagination event_pagination">
+	   	 	<li class="active"><a href="#">1</a></li>
+	   	 	<li><a href="#">2</a></li>
+	   	 </ul>
+		 </div>
+	     <div class="clearfix"> </div>
+	   </div>
+	</div>
+    <div class="footer">
+    	<div class="container">
+    		<div class="col-md-3 grid_4">
+    		   <h3>About Us</h3>	
+    		   <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.."</p>
+    		      <ul class="social-nav icons_2 clearfix">
+                    <li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="#" class="facebook"> <i class="fa fa-facebook"></i></a></li>
+                    <li><a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a></li>
+                 </ul>
+    		</div>
+    		<div class="col-md-3 grid_4">
+    		   <h3>Quick Links</h3>
+    		</div>
+    		<div class="col-md-3 grid_4">
+             <ul class="footer_list">
+                 <li>about</li>
+                 <li>admission</li>
+                 <li>contact</li>
+                 <li>staff</li>
+                 <li>event</li>
+             </ul>
+    		   <h3>Contact Us</h3>
+             <p>
+                 <strong>Delhi Public School administrative office:</strong> 203, Venus 
+                 Benecia,SG Road,<br />
+                 Above Nexa Show Room
+                 <br />
+                 Opp Rajpath Club,SG Highway,<br />
+                 Ahmadabad-380015,Gujrat,India</p>
+             <!-- Address -->                             
+             <p>
+                 <strong>School Address:</strong><br />
+                 Kherpur Road
+                 <br />
+                 Near Panjarapur,
+                 <br />
+                 Taluka- Rajpur ,<br />
+                 Dist- Mehsana-382715, Gujarat</p>
+             <!-- Phone -->                             
+             <p>
+                 <strong>Call Us:</strong> +91 8980034171 or
+                 <br />
+                 +91 8980034173 or
+                 <br />
+                 079-65100166</p>
+    			<address>
+                    &nbsp;</address>
+    		</div>
+    		<div class="col-md-3 grid_4">
+    		   <h3>Working Hours</h3>
+    			 <table class="table_working_hours">
+		        	<tbody>
+		        		<tr class="opened_1">
+							<td class="day_label">monday</td>
+							<td class="day_value">9:30 am - 6.00 pm</td>
+						</tr>
+					    <tr class="opened">
+							<td class="day_label">tuesday</td>
+							<td class="day_value">9:30 am - 6.00 pm</td>
+						</tr>
+					    <tr class="opened">
+							<td class="day_label">wednesday</td>
+							<td class="day_value">9:30 am - 6.00 pm</td>
+						</tr>
+					    <tr class="opened">
+							<td class="day_label">thursday</td>
+							<td class="day_value">9:30 am - 6.00 pm</td>
+						</tr>
+					    <tr class="opened">
+							<td class="day_label">friday</td>
+							<td class="day_value">9:30 am - 3.00 pm</td>
+						</tr>
+					    <tr class="closed">
+							<td class="day_label">saturday</td>
+							<td class="day_value closed"><span>Closed</span></td>
+						</tr>
+					    <tr class="closed">
+							<td class="day_label">sunday</td>
+							<td class="day_value closed"><span>Closed</span></td>
+						</tr>
+				    </tbody>
+				</table>
+            </div>
+    		<div class="clearfix"> </div>
+    		<div class="copy">
+		       <p>Copyright © 2015 Learn . All Rights Reserved  | Design by <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p>
+	        </div>
+    	</div>
+    </div>
+<!-- FlexSlider -->
+<link href="css/flexslider.css" rel='stylesheet' type='text/css' />
+  <script defer src="js/jquery.flexslider.js"></script>
+  <script type="text/javascript">
+      $(function () {
+          SyntaxHighlighter.all();
+      });
+      $(window).load(function () {
+          $('.flexslider').flexslider({
+              animation: "slide",
+              start: function (slider) {
+                  $('body').removeClass('loading');
+              }
+          });
+      });
+  </script>
+<!-- FlexSlider -->
+</body>
+</html>
+</asp:Content>
+
